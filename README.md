@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElenaSidnieva
 - 👀 I’m interested in travelling, driving and psychology
-- 🌱 I’m currently learning HTML, CSS+CSS
+- 🌱 I’m currently learning HTML+CSS
 - 💞️ I’m looking to collaborate on fresh projects that can help others
 - 📫 How to reach me: elen.sidnieva@gmail.com OR @elena_sid (Telegram)
 
